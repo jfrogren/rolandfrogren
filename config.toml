@@ -9,7 +9,7 @@ theme = "hugo-theme-console"
 
   [[params.navlinks]]
   name = "om mig/"
-  url = "om-mig/"
+  url = "about/"
 
   [[params.navlinks]]
   name = "texter/"
