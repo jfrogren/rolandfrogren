@@ -1,6 +1,6 @@
 +++
 image = "framsida.jpg"
-date = "2020-07-06"
+date = "2015-07-06"
 title = "Poland"
 type = "gallery"
 +++

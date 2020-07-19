@@ -12,9 +12,13 @@ theme = "hugo-theme-console"
   url = "about/"
 
   [[params.navlinks]]
-  name = "texter/"
+  name = "nyheter/"
   url = "posts/"
 
   [[params.navlinks]]
   name = "bilder/"
   url = "photos/"
+
+ [[params.navlinks]]
+  name = "texter/"
+  url = "texter/"

@@ -1,5 +1,5 @@
 +++
-image = "hel-poland-3.jpg"
+image = "sida66.jpg"
 date = "2020-02-06"
 title = "Hel, Poland"
 type = "gallery"

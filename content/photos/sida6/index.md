@@ -1,6 +1,6 @@
 +++
 image = "sida6.jpg"
-date = "2020-01-06"
+date = "2016-06-01"
 title = "Helvete, Poland"
 type = "gallery"
 +++

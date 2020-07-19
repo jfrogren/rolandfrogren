@@ -1,3 +1,3 @@
 +++
-title = "Posts"
+title = "Senaste händelserna"
 +++
