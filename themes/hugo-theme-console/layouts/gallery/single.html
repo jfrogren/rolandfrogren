@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Page.Title }}</h1>
 
-{{ if and (isset .Params "bilder") .Params.image }}
+{{ if and (isset .Params "image") .Params.image }}
     {{ $image := .Page.Resources.GetMatch .Params.image }}
     {{ with $image }}
         {{ $thumb := .Resize "1000x" }}

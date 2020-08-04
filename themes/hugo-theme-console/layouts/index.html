@@ -12,7 +12,7 @@ Välkommen till min hemsida! Här kan du ta del av mina texter och bilder. Snart
 <div class="posts-list">
 {{ with .Site.GetPage "/nyheter" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
-        <div class="nyheter">
+        <div class="post">
             <div class="date">{{ .PublishDate.Format "2 January, 2006" }}</div>
             <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
             {{ .Summary }}
