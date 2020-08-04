@@ -9,15 +9,15 @@ theme = "hugo-theme-console"
 
   [[params.navlinks]]
   name = "om mig/"
-  url = "about/"
+  url = "ommig/"
 
   [[params.navlinks]]
   name = "nyheter/"
-  url = "posts/"
+  url = "nyheter/"
 
   [[params.navlinks]]
   name = "bilder/"
-  url = "photos/"
+  url = "bilder/"
 
  [[params.navlinks]]
   name = "texter/"
