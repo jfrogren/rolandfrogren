@@ -1,4 +1,4 @@
- ++
++++
 title = "Boken"
 image = "omslag-boken.jpg"
 type = "gallery"
