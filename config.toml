@@ -20,5 +20,5 @@ theme = "hugo-theme-console"
   url = "boken/"
 
   [[params.navlinks]]
-  name = "bilder ur boken
+  name = "bilder/"
   url = "bilder/"
