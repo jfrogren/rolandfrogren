@@ -10,7 +10,7 @@ Välkommen till min hemsida! Här kan du ta del av mina texter och bilder. Snart
 <h1>Senaste händelserna</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/posts" }}
+{{ with .Site.GetPage "/nyheter" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <div class="date">{{ .PublishDate.Format "2 January, 2006" }}</div>
@@ -24,7 +24,7 @@ Välkommen till min hemsida! Här kan du ta del av mina texter och bilder. Snart
 <h1>Senaste bilderna</h1>
 
 <div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
+{{ with .Site.GetPage "/bilder" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc")}}
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
