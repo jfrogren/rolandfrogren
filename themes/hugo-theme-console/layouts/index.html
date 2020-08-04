@@ -3,7 +3,9 @@
 <h1></h1>
 
 <p>
-Välkommen till min hemsida! Här kan du ta del av mina texter och bilder. Snart kommer du även att kunna se bilder och läsa utdrag från min bok <i>Lättuggat och svårsmält</i> på denna sida. <a href="ommig/"></a>
+    Välkommen till min hemsida! Här kan du ta del av mina texter och bilder. Snart kommer du även att kunna se bilder och läsa utdrag från min bok <i>Lättuggat och svårsmält</i> på denna sida.
+
+    <a href="ommig/"></a>
 </p>
 <br/>
 
@@ -13,7 +15,7 @@ Välkommen till min hemsida! Här kan du ta del av mina texter och bilder. Snart
 {{ with .Site.GetPage "/nyheter" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
-            <div class="date">{{ .PublishDate.Format "2 January, 2006" }}</div>
+            <div class="date">{{ .PublishDate.Format "2006-01-02" }}</div>
             <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
             {{ .Summary }}
         </div>
