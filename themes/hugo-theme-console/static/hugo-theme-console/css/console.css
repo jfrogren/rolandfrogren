@@ -31,22 +31,22 @@
 }
 
 :root {
-    --global-font-size: 18px;
+    --global-font-size: 17px;
     --global-font-color: #444;
     --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
-    --page-width: 70em;
+    --page-width: 50em;
     --display-h1-decoration: 1;
     --code-bg-color: #fff;
 }
 
-@media only screen and (max-width: 550px) {
+@media only screen and (max-width: 850px) {
     :root {
-        --global-font-size: 16px;
+        --global-font-size: 15px;
         --global-font-color: #444;
         --global-line-height: 1.6em;
-        --page-width: 70em;
+        --page-width: 50em;
     }
 }
 
@@ -247,8 +247,8 @@ figure {
     figure {
         margin-top: 5px;
         margin-bottom: 5px;
-        margin-left: 30px;
-        margin-right: 30px;
+        margin-left: 50px;
+        margin-right: 50px;
     }
 
     .posts-list {
