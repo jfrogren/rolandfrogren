@@ -7,6 +7,9 @@ theme = "hugo-theme-console"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
 
+  # https://discourse.gohugo.io/t/how-to-override-css-classes-with-hugo/3033/3
+  # custom_css = ["", ""]
+
   [[params.navlinks]]
   name = "Om mig/"
   url = "om-mig/"
@@ -22,3 +25,5 @@ theme = "hugo-theme-console"
   [[params.navlinks]]
   name = "Bilder ur boken/"
   url = "bilder/"
+
+[params]
