@@ -32,7 +32,7 @@
 
 :root {
     --global-font-size: 18px;
-    --global-font-color: #3f4bc3;
+    --global-font-color: #444;
     --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
@@ -41,10 +41,10 @@
     --code-bg-color: #fff;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 550px) {
     :root {
         --global-font-size: 16px;
-        --global-font-color: #3f4bc3;
+        --global-font-color: #444;
         --global-line-height: 1.6em;
         --page-width: 70em;
     }
@@ -215,7 +215,7 @@ figure {
     padding-top: 3px;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 550px) {
     .site-name {
         width: 2ch;
         overflow: hidden;
