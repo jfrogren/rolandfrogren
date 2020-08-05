@@ -6,13 +6,15 @@ services:
     ports:
       - 8080:8080
     environment:
-      COMMENTO_ORIGIN: localhost:8080
+      COMMENTO_ORIGIN: http://www.rolandfrogren.com:8080
       COMMENTO_POSTGRES: postgres://postgres:postgres@db:5432/commento?sslmode=disable
+      COMMENTO_CONFIG_FILE: /etc /commento.env
+      COMMENTO_FORBID_NEW_OWNERS: "true"
       COMMENTO_SMTP_HOST: smtp.gmail.com
       COMMENTO_SMTP_PORT: 587
       COMMENTO_SMTP_USERNAME: joakim@frogren.se
       COMMENTO_SMTP_PASSWORD: Elefantbajs2000
-      COMMENTO_SMTP_FROM_ADDRESS: no-reply@example.com
+      COMMENTO_SMTP_FROM_ADDRESS: no-reply@commento.io
     depends_on:
       - db
   db:
