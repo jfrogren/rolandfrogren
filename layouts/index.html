@@ -9,10 +9,10 @@
 </p>
 <br/>
 
-<h1>Senaste händelserna</h1>
+<h1>Aktuellt</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/nyheter" }}
+{{ with .Site.GetPage "/aktuellt" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <div class="date">{{ .PublishDate.Format "2006-01-02" }}</div>
