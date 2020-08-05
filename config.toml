@@ -8,17 +8,17 @@ theme = "hugo-theme-console"
   titleCutting = false
 
   [[params.navlinks]]
-  name = "om mig/"
+  name = "Om mig/"
   url = "ommig/"
 
   [[params.navlinks]]
-  name = "nyheter/"
+  name = "Nyheter/"
   url = "nyheter/"
 
   [[params.navlinks]]
-  name = "boken/"
+  name = "Boken/"
   url = "boken/"
 
   [[params.navlinks]]
-  name = "bilder ur boken/"
+  name = "Bilder ur boken/"
   url = "bilder/"
