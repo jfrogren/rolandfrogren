@@ -31,7 +31,7 @@
 }
 
 :root {
-    --global-font-size: 16px;
+    --global-font-size: 17px;
     --global-font-color: #444;
     --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
@@ -43,10 +43,10 @@
 
 @media only screen and (max-width: 850px) {
     :root {
-        --global-font-size: 14px;
+        --global-font-size: 15px;
         --global-font-color: #444;
         --global-line-height: 1.6em;
-        --page-width: 70em;
+        --page-width: 50em;
     }
 }
 
