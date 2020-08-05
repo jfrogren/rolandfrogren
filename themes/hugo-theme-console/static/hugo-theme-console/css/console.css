@@ -31,20 +31,20 @@
 }
 
 :root {
-    --global-font-size: 16px;
-    --global-font-color: #444;
+    --global-font-size: 18px;
+    --global-font-color: #3f4bc3;
     --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
     --page-width: 70em;
     --display-h1-decoration: 1;
-    --code-bg-color: #fff;
+    --code-bg-color: #3f4bc3;
 }
 
 @media only screen and (max-width: 850px) {
     :root {
-        --global-font-size: 14px;
-        --global-font-color: #444;
+        --global-font-size: 16px;
+        --global-font-color: #3f4bc3;
         --global-line-height: 1.6em;
         --page-width: 70em;
     }
@@ -58,7 +58,7 @@
 }
 
 .box-masonry .box-masonry-image {
-    background: #fff;
+    background: #3f4bc3;
 }
 
 .box-masonry,
@@ -73,7 +73,7 @@
 body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
-    background-color: #fff;
+    background-color: #3f4bc3;
     margin-bottom: 75px;
 }
 
@@ -122,7 +122,7 @@ h1 {
 
 p.social a {
     margin: 0 0 10px 0;
-    color: #fff;
+    color: #3f4bc3;
     display: inline-block;
     width: 30px;
     height: 30px;
@@ -215,7 +215,7 @@ figure {
     padding-top: 3px;
 }
 
-@media only screen and (max-width: 850px) {
+@media only screen and (max-width: 650px) {
     .site-name {
         width: 2ch;
         overflow: hidden;
