@@ -5,7 +5,7 @@ theme = "hugo-theme-console"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = false
+  titleCutting = true
 
   [[params.navlinks]]
   name = "om mig/"
@@ -20,5 +20,5 @@ theme = "hugo-theme-console"
   url = "boken/"
 
   [[params.navlinks]]
-  name = "boken/"
+  name = "bilder ur boken/"
   url = "bilder/"
