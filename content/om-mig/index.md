@@ -14,4 +14,5 @@ Som nybliven pensionär puberterade jag om och återgick till den ungdom som jag
 <script defer
   src="http://commento.example.com/js/commento.js">
 </script>
+<noscript>Please enable JavaScript to load the comments.</noscript>
 {{< /rawhtml >}}
