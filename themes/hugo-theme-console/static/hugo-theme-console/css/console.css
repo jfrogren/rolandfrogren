@@ -73,7 +73,7 @@
 body {
     font-family: var(--font-stack);
     font-size: var(--global-font-size);
-    background-color: #FFFFE0;
+    background-color: #F5F5F5;
     margin-bottom: 75px;
 }
 
