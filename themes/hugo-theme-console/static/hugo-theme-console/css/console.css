@@ -33,8 +33,8 @@
 :root {
     --global-font-size: 19px;
     --global-font-color: #444;
-    --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
-    --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    --mono-font-stack: IBM Plex Mono, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    --font-stack: IBM Plex Sans, IBM Plex Mono, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.8em;
     --page-width: 45em;
     --display-h1-decoration: 1;
@@ -71,7 +71,7 @@
 }
 
 body {
-    font-family: 'IBM Plex Mono';
+    font-family: var(--mono-font-stack);
     font-size: var(--global-font-size);
     background-color: #fff;
     margin-bottom: 75px;
