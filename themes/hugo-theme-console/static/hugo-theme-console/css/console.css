@@ -89,7 +89,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: 'IBM Plex Sans';
+    font-family: var(--font-stack);
     clear: both;
 }
 
@@ -107,7 +107,7 @@ h1 {
     background-color: transparent;
     border-color: #333;
     font-weight: 400;
-    font-family: var(--font-stack);
+    font-family: 'IPM Plex Sans';
     padding: 6px 12px;
     font-size: 18px;
     line-height: 1.55;
