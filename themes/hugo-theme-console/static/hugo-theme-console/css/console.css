@@ -36,7 +36,7 @@
     --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.8em;
-    --page-width: 50em;
+    --page-width: 45em;
     --display-h1-decoration: 1;
     --code-bg-color: #fff;
 }
@@ -46,7 +46,7 @@
         --global-font-size: 17px;
         --global-font-color: #444;
         --global-line-height: 1.8em;
-        --page-width: 50em;
+        --page-width: 45em;
     }
 }
 
