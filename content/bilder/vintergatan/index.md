@@ -1,6 +1,6 @@
 +++
 image = "vintergatan.jpg"
-date = "2016-06-03"
+date = "2015-06-03"
 title = "Vintergatan"
 type = "gallery"
 +++
