@@ -71,7 +71,7 @@
 }
 
 body {
-    font-family: var(--mono-font-stack);
+    font-family: Libre Baskerville;
     font-size: var(--global-font-size);
     background-color: #fff;
     margin-bottom: 75px;
