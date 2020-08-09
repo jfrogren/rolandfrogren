@@ -31,7 +31,7 @@
 }
 
 :root {
-    --global-font-size: 18px;
+    --global-font-size: 19px;
     --global-font-color: #444;
     --mono-font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
@@ -43,7 +43,7 @@
 
 @media only screen and (max-width: 850px) {
     :root {
-        --global-font-size: 16px;
+        --global-font-size: 17px;
         --global-font-color: #444;
         --global-line-height: 1.8em;
         --page-width: 50em;
@@ -146,11 +146,11 @@ strong {
 }
 
 .logo {
-    font-weight: normal;
+    font-weight: bold;
 }
 
 .terminal-menu li {
-    margin-right: 30px;
+    margin-right: 60px;
 }
 
 figure {
