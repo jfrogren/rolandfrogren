@@ -33,7 +33,7 @@
 :root {
     --global-font-size: 19px;
     --global-font-color: #444;
-    --mono-font-stack: Libre Baskerville, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    --mono-font-stack: IBM Plex Mono, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: IBM Plex Sans, IBM Plex Mono, Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.8em;
     --page-width: 45em;
@@ -71,7 +71,7 @@
 }
 
 body {
-    font-family: Libre Baskerville;
+    font-family: var(--font-stack);
     font-size: var(--global-font-size);
     background-color: #fff;
     margin-bottom: 75px;
@@ -107,7 +107,7 @@ h1 {
     background-color: transparent;
     border-color: #333;
     font-weight: 400;
-    font-family: 'IPM Plex Sans';
+    font-family: var(--font-stack);
     padding: 6px 12px;
     font-size: 18px;
     line-height: 1.55;
