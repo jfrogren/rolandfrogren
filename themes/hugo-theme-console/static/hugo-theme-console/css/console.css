@@ -89,7 +89,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-    font-family: var(--font-stack);
+    font-family: 'IBM Plex Sans';
     clear: both;
 }
 
