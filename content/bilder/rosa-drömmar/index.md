@@ -1,6 +1,6 @@
 +++
 image = "rosa-drömmar.jpg"
-date = "2018-06-03"
+date = "2016-06-02"
 title = "Rosa drömmar"
 type = "gallery"
 +++
