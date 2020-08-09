@@ -71,7 +71,7 @@
 }
 
 body {
-    font-family: var(--font-stack);
+    font-family: 'IBM Plex Mono';
     font-size: var(--global-font-size);
     background-color: #fff;
     margin-bottom: 75px;
