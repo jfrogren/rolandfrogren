@@ -1,6 +1,6 @@
 +++
 image = "sida57.jpg"
-date = "2016-06-06"
+date = "2020-01-01"
 title = "Universum har alltid varit gränslöst"
 type = "gallery"
 +++

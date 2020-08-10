@@ -1,6 +1,6 @@
 +++
 image = "sida61.jpg"
-date = "2016-06-06"
+date = "2020-01-02"
 title = "Berusad, sover pappa"
 type = "gallery"
 +++
