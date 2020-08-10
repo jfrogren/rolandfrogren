@@ -1,6 +1,6 @@
 +++
 image = "dragningskraft.jpg"
-date = "2015-06-03"
+date = "2015-06-04"
 title = "Dragningskraft"
 type = "gallery"
 +++
