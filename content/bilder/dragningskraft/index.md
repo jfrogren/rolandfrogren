@@ -1,7 +1,7 @@
 +++
-image = "kärnfamiljen.jpg"
+image = "dragningskraft.jpg"
 date = "2015-06-03"
-title = "Kärnfamiljen"
+title = "Dragningskraft"
 type = "gallery"
 +++
 

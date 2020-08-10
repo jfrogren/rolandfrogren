@@ -1,7 +1,7 @@
 +++
-image = "birds.jpg"
+image = "no-wire.jpg"
 date = "2015-07-03"
-title = "Birds"
+title = "No wire..."
 type = "gallery"
 +++
 

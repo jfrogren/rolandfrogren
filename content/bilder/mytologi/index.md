@@ -1,7 +1,7 @@
 +++
-image = "karlaplan.jpg"
+image = "mytologi.jpg"
 date = "2016-06-03"
-title = "Karlaplan"
+title = "Mytologi"
 type = "gallery"
 +++
 

@@ -1,7 +1,7 @@
 +++
-image = "rosa-drömmar.jpg"
+image = "identitet.jpg"
 date = "2016-06-03"
-title = "Rosa drömmar"
+title = "Identitet"
 type = "gallery"
 +++
 
