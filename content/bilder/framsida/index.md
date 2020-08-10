@@ -1,6 +1,6 @@
 +++
 image = "framsida.jpg"
-date = "2016-06-07"
+date = "2019-12-31"
 title = "Don Orlando och Don Rolando"
 type = "gallery"
 +++

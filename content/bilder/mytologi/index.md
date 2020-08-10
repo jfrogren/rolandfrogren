@@ -1,6 +1,6 @@
 +++
 image = "mytologi.jpg"
-date = "2016-06-05"
+date = "2019-12-30"
 title = "Mytologi"
 type = "gallery"
 +++
