@@ -12,7 +12,7 @@ theme = "hugo-theme-console"
   url = "om-mig/"
 
   [[params.navlinks]]
-  name = "Aktuellt/"
+  name = "Nytt/"
   url = "aktuellt/"
 
   [[params.navlinks]]
