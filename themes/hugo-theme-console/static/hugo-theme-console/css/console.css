@@ -216,6 +216,32 @@ figure {
     padding-top: 3px;
 }
 
+/* ------ Lägger till textpost-class----
+
+.textposts-list {
+    position: relative;
+    padding-left: 150px;
+    top: 0;
+    margin-top: 15px;
+}
+
+.textpost h1 {
+    padding-top: 0;
+}
+
+.textposts-list .date {
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    width: 150px;
+    height: 200%;
+    z-index: 400;
+    font-weight: 800;
+    padding-top: 3px;
+}
+
+*/
+
 @media only screen and (max-width: 850px) {
     .site-name {
         width: 2ch;
@@ -268,13 +294,35 @@ figure {
         position: absolute;
         left: 0px;
         width: 150px;
-        height: 100%;
+        height: 200%;
         z-index: 400;
         font-weight: bold;
         padding-top: 3px;
         display: none;
     }
 
+    .textposts-list {
+        position: relative;
+        padding-left: 0;
+        top: 0;
+        margin-top: 42px;
+    }
+
+    .textpost h1 {
+        padding-top: 0;
+    }
+
+    .textposts-list .date {
+        display: inline-block;
+        position: absolute;
+        left: 0px;
+        width: 150px;
+        height: 200%;
+        z-index: 400;
+        font-weight: bold;
+        padding-top: 3px;
+        display: none;
+    }
 
     .footer {
         margin-top: 50px;
