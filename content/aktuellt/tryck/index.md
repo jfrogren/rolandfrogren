@@ -1,6 +1,6 @@
 +++
 image = "bokomslag.jpg"
-title = "Boken färdigredigerad och på väg till tryck"
+title = "Boken på väg till tryck"
 date = "2020-09-13"
 type = "gallery"
 +++
