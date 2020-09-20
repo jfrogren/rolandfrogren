@@ -4,6 +4,4 @@ image = "omslagtillboken.jpg"
 type = "gallery"
 +++
 
-Så här ser boken ut. Vill du beställa den går det bra att skicka dina adressuppgifter till mig på <rolandfrogren@hotmail.com>. 
-Boken kan också efter överenskommelse avhämtas antingen hos mig (tfn. 070-5206474) eller hos min bror Anders i Ludvika (tfn. 073-6004691).
-
+Så här ser boken ut. Den är inbunden med tryck på pärmen och cirka 100 sidor. Priset är 250:- + porto. Boken är just nu på väg till tryckeriet och preliminärt leveransdatum från tryckeriet är 2 oktober. Vill du förbeställa boken går det bra att skicka dina adressuppgifter till mig på <rolandfrogren@hotmail.com>. Boken kommer också efter överenskommelse att kunna avhämtas antingen i Stockholm, hos min bror Anders i Ludvika (tfn. 073-6004691) eller hos min son Joakim i Lund (<joakim@frogren.se>).
