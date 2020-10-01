@@ -6,6 +6,6 @@ type = "gallery"
 
 Så här ser boken ut. Den är inbunden med tryck på pärmen och cirka 120 sidor. Priset är ännu ej fastställt på grund av osäkra tryck-, frakt- och distributionskostnader. Boken är just nu på väg att tryckas och leverans till Sverige är fastställt till 2-3 oktober. Så snart priset för boken är bestämt så kommer vi att lägga upp en beställningslänk här på hemsidan.
 
-Här kan du få några smakprov av bokens [texter](/texter/) och [bilder](/bilder/). Vill du förbeställa boken, klicka [här](/bestall-boken/).
+Här kan du få några smakprov av bokens [texter](/texter/) och [bilder](/bilder/). <!--Vill du förbeställa boken, klicka [här](bestall.html). Läs guiden här: https://www.developerdrive.com/add-google-forms-static-site/ -->
 
 <!--Vill du förbeställa boken går det bra att skicka dina adressuppgifter till mig på <rolandfrogren@hotmail.com>. Boken kommer också efter överenskommelse att kunna avhämtas antingen i Stockholm, hos min bror Anders i Ludvika (tfn. 073-6004691) eller hos min son Joakim i Lund (<joakim@frogren.se>).-->
