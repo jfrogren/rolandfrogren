@@ -1,5 +1,5 @@
 +++
-image = "bokomslag.jpg"
+image = "bokomslag.png"
 title = "Boken på väg att tryckas"
 date = "2020-09-20"
 type = "gallery"
