@@ -1,6 +1,6 @@
 +++
 title = "Boken"
-image = "bokomslag.png"
+image = "bokomslaget.png"
 type = "gallery"
 +++
 
