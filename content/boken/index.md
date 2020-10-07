@@ -4,8 +4,6 @@ image = "bokomslag.png"
 type = "gallery"
 +++
 
-![](https://files.jt.lv/2020/October/DS200228/)
-
 Så här ser boken ut. Den är inbunden med tryck på pärmen och cirka 120 sidor. Priset för boken är **250 kr** (+ ev. frakt). Här kan du få några smakprov av bokens [texter](/texter/) och [bilder](/bilder/).
 
 Från och med **8 oktober** kommer den att finnas att köpa på [Globe bokhandel](https://www.globebokhandel.se/) i Ludvika och på [Uppsala bokhandel](https://www.uppsalabokhandel.se/). Det kommer också gå att köpa boken direkt av mina bröder Anders Frögren (070-272 82 13) och Kjell Frögren (070-323 24 33) i Ludvika och av min dotter Maria Lind (070-299 80 68) i Stockholm eller min son Joakim Frögren i Lund (joakim@frogren.se). 
