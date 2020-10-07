@@ -1,6 +1,6 @@
 +++
 title = "Om mig"
-image = "baksida.jpg"
+image = "baksida-beskuren.jpg"
 type = "gallery"
 +++
 
