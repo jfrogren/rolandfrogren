@@ -5,6 +5,6 @@ title = "Storstadromantik i urbaniseringstider"
 type = "gallery"
 +++
 
-Akryl på duk, 30 x 42 cm.
+Akryl på duk, 30 x 42 cm. RESERVERAD.
  
 

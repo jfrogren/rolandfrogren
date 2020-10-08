@@ -5,4 +5,4 @@ title = "Religionsfrihet"
 type = "gallery"
 +++
 
-Akryl på duk, 42 x 30 cm. SÅLD.
+Akryl på duk, 42 x 30 cm.

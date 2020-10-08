@@ -5,4 +5,4 @@ title = "Euforin blomstrar"
 type = "gallery"
 +++
 
-Akryl på duk, 50 x 40 cm. RESERVERAD.
+Akryl på duk, 50 x 40 cm.
