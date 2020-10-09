@@ -5,4 +5,4 @@ title = "På hemväg"
 type = "gallery"
 +++
 
-Akryl på duk, 30 x 20 cm.
+Akryl på duk, 30 x 20 cm. RESERVERAD.

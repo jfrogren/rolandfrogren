@@ -5,4 +5,4 @@ title = "Don Orlando och Don Rolando"
 type = "gallery"
 +++
 
-Akryl på duk, 70 x 50 cm.
+Akryl på duk, 70 x 50 cm. SÅLD.
