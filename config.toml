@@ -2,8 +2,6 @@ baseURL = "https://www.rolandfrogren.com/"
 languageCode = "sv"
 title = "Roland Frögren"
 theme = "hugo-theme-console"
-description = "Nu finns min bok 'Lättuggat & svårsmält' att köpa."
-image = "balkongbok.jpg"
 
 #Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
@@ -23,3 +21,7 @@ image = "balkongbok.jpg"
   [[params.navlinks]]
   name = "Texter/"
   url = "texter/"
+
+  [[params.navlinks]]
+  name = "Press/"
+  url = "press/"
