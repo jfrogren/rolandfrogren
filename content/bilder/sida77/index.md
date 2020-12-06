@@ -5,4 +5,4 @@ title = "Vad hände med demokratin?"
 type = "gallery"
 +++
 
-Akryl på duk, 42 x 30 cm.
+Akryl på duk, 42 x 30 cm. RESERVERAD.

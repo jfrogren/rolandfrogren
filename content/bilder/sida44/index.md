@@ -5,4 +5,4 @@ title = "Ni kan skylla på mig"
 type = "gallery"
 +++
 
-Akryl på duk, 20 x 30 cm.
+Akryl på duk, 20 x 30 cm. RESERVERAD.

@@ -5,4 +5,4 @@ title = "Universum har alltid varit gränslöst"
 type = "gallery"
 +++
 
-Akryl på duk, 32 x 40 cm.
+Akryl på duk, 32 x 40 cm. RESERVERAD.
