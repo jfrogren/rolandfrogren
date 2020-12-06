@@ -7,7 +7,7 @@ theme = "hugo-theme-console"
   titleCutting = false
 
   [[params.navlinks]]
-  name = "Jag/"
+  name = "Om/"
   url = "om-mig/"
 
   [[params.navlinks]]
