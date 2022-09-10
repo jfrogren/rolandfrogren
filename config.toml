@@ -11,16 +11,16 @@ theme = "hugo-theme-console"
   url = "om-mig/"
 
   [[params.navlinks]]
+  name = "Text, ljud & video/"
+  url = "texter/"
+
+  [[params.navlinks]]
   name = "Bok/"
   url = "boken/"
 
   [[params.navlinks]]
   name = "Bild/"
   url = "bilder/"
-
-  [[params.navlinks]]
-  name = "Text, ljud & video/"
-  url = "texter/"
 
   [[params.navlinks]]
   name = "Press/"
