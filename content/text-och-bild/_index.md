@@ -4,7 +4,6 @@ type = "gallery"
 +++
 
 Här är några textutdrag ur boken Lättuggat och svårsmält:
-
 - [Dammluckan](/text-och-bild/dammluckan.html)
 - [Kyss mig!](/text-och-bild/kyss-mig.html)
 - [Den amerikanska drömmen](/text-och-bild/den-amerikanska-drömmen.html)
