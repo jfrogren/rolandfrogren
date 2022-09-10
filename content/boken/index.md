@@ -6,7 +6,7 @@ type = "gallery"
 
 Så här ser boken ut. Den är inbunden med tryck på pärmen och cirka 120 sidor. Priset för boken är **250 kr** (+ ev. fraktkostnad på 60 kr om du vill ha den hemskickad). [Här](/text-och-bild/) kan du få några smakprov av bokens texter och bilder.
 
-Boken går att köpa på [Globe bokhandel](https://www.globebokhandel.se/) i Ludvika samt på [Uppsala bokhandel](https://www.uppsalabokhandel.se/). Det går också att köpa boken direkt av Rolands bröder Anders (070-272 82 13) och Kjell (070-323 24 33) i Ludvika och av hans dotter Maria (070-299 80 68) i Stockholm eller hans son Joakim i Lund (joakim@frogren.se). 
+Boken går att köpa på [Globe bokhandel](https://www.globebokhandel.se/) i Ludvika samt på [Uppsala bokhandel](https://www.uppsalabokhandel.se/). Det går också att köpa boken direkt av Rolands dotter Maria (070-299 80 68) i Stockholm eller hans son Joakim i Malmö (joakim@frogren.se). 
 
 Bor du på annan ort och vill ha boken skickad till dig, vänligen sänd ett mejl med dina adressuppgifter till joakim@frogren.se så tar Joakim kontakt med dig för vidare information om fraktkostnad och betalning.
 
