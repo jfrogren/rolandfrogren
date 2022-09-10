@@ -12,7 +12,7 @@ Här är några textutdrag ur boken Lättuggat och svårsmält:
 
 ## Ljud
 
-*Efter Rolands bortgång fann vi i familjen ett kassettband märkt "90-tal" , som visade sig vara ett blandband Roland spelat in i början av 90-talet och där han även själv pratar mellan låtarna. Här följer tre smakprov:* 
+*Efter Rolands bortgång fann vi i familjen ett kassettband märkt "90-tal" , som visade sig vara en nyårshälsning i form av ett blandband Roland spelat in i början av 90-talet och där han även själv pratar mellan låtarna. Här följer tre smakprov:* 
 
 Roland läser en dikt av Maria Wine (1912-2003) ur Ögat som vakar från 1981: 
 

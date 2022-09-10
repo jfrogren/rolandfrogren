@@ -19,7 +19,7 @@ theme = "hugo-theme-console"
   url = "bilder/"
 
   [[params.navlinks]]
-  name = "Text & video/"
+  name = "Text, ljud & video/"
   url = "texter/"
 
   [[params.navlinks]]
