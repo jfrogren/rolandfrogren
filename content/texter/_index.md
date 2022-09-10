@@ -1,6 +1,7 @@
 +++
 title = "Text"
 type = "gallery"
+
 +++
 
 Här är några textutdrag ur boken Lättuggat och svårsmält:
@@ -8,6 +9,10 @@ Här är några textutdrag ur boken Lättuggat och svårsmält:
 - [Dammluckan](/texter/dammluckan.html)
 - [Kyss mig!](/texter/kyss-mig.html)
 - [Den amerikanska drömmen](/texter/den-amerikanska-drömmen.html)
+
+## Ljud
+
+{{< audio src="/audio/Rolands_90tal_dikt.wav" class="something" >}}
 
 
 ## Video
