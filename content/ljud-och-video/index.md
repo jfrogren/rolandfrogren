@@ -1,16 +1,16 @@
 +++
-title = "Text"
+title = "Ljud"
 type = "gallery"
 
 +++
-
+<!--
 Här är några textutdrag ur boken Lättuggat och svårsmält:
 
 - [Dammluckan](/texter/dammluckan.html)
 - [Kyss mig!](/texter/kyss-mig.html)
 - [Den amerikanska drömmen](/texter/den-amerikanska-drömmen.html)
 
-## Ljud
+-->
 
 *Efter Rolands bortgång fann vi i familjen ett kassettband märkt "90-tal", som visade sig vara en nyårshälsning i form av ett blandband Roland spelat in i början av 90-talet och där han även själv pratar mellan låtarna. Här följer tre smakprov:* 
 
