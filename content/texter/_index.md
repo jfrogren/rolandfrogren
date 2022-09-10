@@ -18,7 +18,7 @@ Roland läser en dikt av Maria Wine (1912-2003) ur Ögat som vakar från 1981:
 
 {{< audio src="/audio/Rolands_90tal_dikt.wav" class="something" >}}
 
-Roland läser novellen Blasieholmstorg av Stig Claesson (1928-2008) ur  Supportern från 1962.
+Roland läser novellen Blasieholmstorg av Stig Claesson (1928-2008) ur  Supportern från 1962:
 
 {{< audio src="/audio/Rolands_90tal_betraktelse.wav" class="something" >}}
 
