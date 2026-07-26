@@ -1,4 +1,4 @@
-baseURL = 'https://frogren.se'
+baseURL = 'https://roland.frogren.se'
 languageCode = "sv"
 title = "Roland Frögren"
 theme = "hugo-theme-console"
